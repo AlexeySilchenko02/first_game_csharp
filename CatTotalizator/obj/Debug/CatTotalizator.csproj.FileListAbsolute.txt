@@ -1,0 +1,15 @@
+C:\Users\Silch\Education\RaidBosses\CatTotalizator\bin\Debug\CatTotalizator.exe.config
+C:\Users\Silch\Education\RaidBosses\CatTotalizator\bin\Debug\CatTotalizator.exe
+C:\Users\Silch\Education\RaidBosses\CatTotalizator\bin\Debug\CatTotalizator.pdb
+C:\Users\Silch\Education\RaidBosses\CatTotalizator\obj\Debug\CatTotalizator.csproj.AssemblyReference.cache
+C:\Users\Silch\Education\RaidBosses\CatTotalizator\obj\Debug\CatTotalizator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Silch\Education\RaidBosses\CatTotalizator\obj\Debug\CatTotalizator.csproj.CoreCompileInputs.cache
+C:\Users\Silch\Education\RaidBosses\CatTotalizator\obj\Debug\CatTotalizator.exe
+C:\Users\Silch\Education\RaidBosses\CatTotalizator\obj\Debug\CatTotalizator.pdb
+D:\Allexx\study\С#\RaidBosses\CatTotalizator\bin\Debug\CatTotalizator.exe.config
+D:\Allexx\study\С#\RaidBosses\CatTotalizator\bin\Debug\CatTotalizator.exe
+D:\Allexx\study\С#\RaidBosses\CatTotalizator\bin\Debug\CatTotalizator.pdb
+D:\Allexx\study\С#\RaidBosses\CatTotalizator\obj\Debug\CatTotalizator.csproj.AssemblyReference.cache
+D:\Allexx\study\С#\RaidBosses\CatTotalizator\obj\Debug\CatTotalizator.csproj.CoreCompileInputs.cache
+D:\Allexx\study\С#\RaidBosses\CatTotalizator\obj\Debug\CatTotalizator.exe
+D:\Allexx\study\С#\RaidBosses\CatTotalizator\obj\Debug\CatTotalizator.pdb
